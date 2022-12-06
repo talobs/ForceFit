@@ -13,4 +13,5 @@
 - Offset adjustment.
 
 ## Images
+The image below shows *ForceFit*'s panel. The imported data are listed in the *Groups* table; the selected item is plotted on the main figure and its properties are displayed in the *Properties* table. There are four tables below the main figure, the top left and top right tables list the  manual and automatic fitting parameters, respectively. To optimaize the fitting process, the *Guess*, *Min* and *Max* fields on the top right table are adjustable. The bottom tables display the calculated physical parameters corresponding to the fitting parameters from the tables above. The fitting boundaries are controlled from the *Fit Boundaries* panel. Plotting options such as scaling, boundaries, and fits to display are adjustable from the panels at the right side.
 ![](./images/image1.png)
